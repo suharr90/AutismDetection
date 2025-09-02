@@ -10,3 +10,7 @@ YOLOv9 introduces innovative methods like Programmable Gradient Information (PGI
 YOLOv10 created by researchers from Tsinghua University using the Ultralytics Python package, provides real-time object detection advancements by introducing an End-to-End head that eliminates Non-Maximum Suppression (NMS) requirements.
 
 YOLO11 🚀 NEW: Ultralytics' latest YOLO models, deliver state-of-the-art (SOTA) performance across multiple tasks, including object detection, segmentation, pose estimation, tracking, and classification, leveraging capabilities across diverse AI applications and domains.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+can you download the data from ABIDE website, MRI scans was founded in scan data for each organization or university.
+<img width="1817" height="735" alt="image" src="https://github.com/user-attachments/assets/5edae229-b4ce-4e13-84e2-1043008325b8" />
