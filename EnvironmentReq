@@ -1,0 +1,6 @@
+Model / Variant	Installation Method	Environment Requirements
+YOLOv8 (Ultralytics)	pip install ultralytics	Python 3.8+, PyTorch 1.8+, CUDA GPU recommended (CUDA ≥11.2), 8 GB RAM+, 50 GB disk
+YOLOv9 (third-party)	GitHub clone + requirements.txt	Virtual env recommended; GPU strongly advised
+YOLOv10 (Ultralytics)	Ultralytics package or GitHub	Same as YOLOv8; dependency versions per guide (e.g., torch 2.0.1, OpenCV)
+YOLOv11 / YOLOv11-pose	Ultralytics package	Same Ultralytics environment; GPU recommended for pose tasks
+Heavy / multi-session	—	VRAM 16 GB+, system RAM ≥16 GB
